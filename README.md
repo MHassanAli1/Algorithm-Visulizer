@@ -49,5 +49,5 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/algorithm-visualizer.git
-cd algorithm-visualizer
+git clone https://github.com/MHassanAli1/Algorithm-Visualizer.git
+cd AlgorithmVisualizer
