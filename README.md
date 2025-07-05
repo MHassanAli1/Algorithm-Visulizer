@@ -1,4 +1,6 @@
 # Algorithm Visualizer
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 A **C++ Static Project** to visually demonstrate classic **algorithms and data structures** including:
 
@@ -43,6 +45,23 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ### 🌳 Binary Search Tree (BST)
 - In-order / Pre-order / Post-order Traversals
+
+ ---
+
+## 📜 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon it
+
+**Under the conditions**:
+- You **must give credit**
+- **Commercial use is not allowed**
+
+🔗 [View the full license here](https://creativecommons.org/licenses/by-nc/4.0/)
+
 
 ---
 
