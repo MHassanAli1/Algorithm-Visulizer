@@ -14,11 +14,11 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ## Features
 
-- 📊 **Visual Simulation** of common algorithms
-- 💡 Clear and interactive design for educational purposes
-- 🎓 Great for learning data structures and algorithm behavior
-- 💻 Minimal dependencies – pure C++ graphics
-- ⚙️ Easily extensible for other algorithms
+-  **Visual Simulation** of common algorithms
+-  Clear and interactive design for educational purposes
+-  Great for learning data structures and algorithm behavior
+-  Minimal dependencies – pure C++ graphics
+-  Easily extensible for other algorithms
 
 ---
 
