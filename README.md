@@ -1,9 +1,8 @@
-# 🧠 Algorithm Visualizer
+# Algorithm Visualizer
 
 A **C++ Static Project** to visually demonstrate classic **algorithms and data structures** including:
 
-- 🔢 Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick)
-- 🔍 Searching Algorithms (Linear, Binary)
+- 🔢 Sorting Algorithms (Bubble, Selection, Insertion, Merge)
 - 🌐 Graph Algorithms (BFS, DFS)
 - 🌳 Binary Search Tree (BST) Operations (Insert, Delete, Search, Traversals)
 
@@ -29,32 +28,23 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ---
 
-## 🧩 Modules
+## Modules
 
-### 📌 Sorting Visualizations
+### 🔢 Sorting Visualizations
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
 - Merge Sort
-- Quick Sort
-
-### 🔍 Searching Visualizations
-- Linear Search
-- Binary Search
 
 ### 🌐 Graph Algorithms
 - BFS (Breadth-First Search)
 - DFS (Depth-First Search)
+- Djikstra's Algorithm (Graph)
 
 ### 🌳 Binary Search Tree (BST)
-- Insert
-- Delete
-- Search
 - In-order / Pre-order / Post-order Traversals
 
 ---
-
-## 🚀 Getting Started
 
 ### 1. Clone the Repository
 
