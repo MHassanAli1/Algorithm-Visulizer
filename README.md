@@ -70,4 +70,23 @@ You are free to:
 ```bash
 git clone https://github.com/MHassanAli1/Algorithm-Visualizer.git
 ```
-### 2. RUN SLN FILE USING MSVS 2019/2022 OR RUN CODE IN MSVS 2019/2022
+### 2. RUN CPP FILE IN 2019/2022
+
+If you want to test or run AlogrithmVisulizer.cpp from this project, you can do so by creating a new Console App in MSVC. Below are the required steps:
+
+---
+
+### Steps:
+
+1. **Open Visual Studio 2022**
+
+2. **Select** `Create a new project`
+
+3. Choose **Console App (C++)**
+
+4. Click **Next**, then give your project a name  
+   📁 (e.g., `AlgorithmVisualizer`) and click **Create**
+
+5. Visual Studio will generate a default `main.cpp` file.
+
+6. Replace the contents of `main.cpp` with the AlgorithmVisilizer.cpp code. 
