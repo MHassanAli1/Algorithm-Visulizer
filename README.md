@@ -12,7 +12,7 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ---
 
-## ✨ Features
+## Features
 
 - 📊 **Visual Simulation** of common algorithms
 - 💡 Clear and interactive design for educational purposes
@@ -22,7 +22,7 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - **Microsoft Visual Studio 2019/2022**
 - **C++17 or C++20 standard**
@@ -48,7 +48,7 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
  ---
 
-## 📜 License
+## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
 
