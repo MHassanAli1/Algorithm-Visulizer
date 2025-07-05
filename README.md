@@ -50,4 +50,5 @@ Built using **C++17+ (recommended C++20)** and designed to run smoothly in **Mic
 
 ```bash
 git clone https://github.com/MHassanAli1/Algorithm-Visualizer.git
-cd AlgorithmVisualizer
+```
+### 2. RUN SLN FILE USING MSVS 2019/2022 OR RUN CODE IN MSVS 2019/2022
